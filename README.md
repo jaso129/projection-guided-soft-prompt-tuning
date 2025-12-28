@@ -2,7 +2,8 @@
 
 This repository contains the source code for the paper:
 
-[**Semantically Interpretable Soft Prompt Tuning via Projection-Guided Alignment** ]([url](https://authors.elsevier.com/c/1mIGZ3OAb9GrWy)) 
+[**Semantically Interpretable Soft Prompt Tuning via Projection-Guided Alignment** ](https://authors.elsevier.com/c/1mIGZ3OAb9GrWy)
+
 Published in *Knowledge-Based Systems* (SCI Q1, IF: 7.6)
 
 ## Overview
